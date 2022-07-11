@@ -433,8 +433,8 @@ h3.hello span{
     margin-bottom: 60px;
 }
 .contact .contact-info-item{
-    flex: 0 0 33.3%;
-    max-width: 33.3%;
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
     text-align: center;
 }
 .contact .contact-info-item .icon{
